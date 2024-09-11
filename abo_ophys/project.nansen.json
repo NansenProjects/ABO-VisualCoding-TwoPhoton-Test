@@ -1,0 +1,13 @@
+{
+  "_type": "NANSEN Project Specification",
+  "_description": "Contains properties and preferences for a NANSEN project",
+  "_version": "1.0.0",
+  "Properties": {
+    "Name": "abo_ophys",
+    "ShortName": "abo_ophys",
+    "Description": "Allen Brain Observatory - Visual Coding - Two Photon Calcium Imaging"
+  },
+  "Preferences": {
+    "DataModule": []
+  }
+}
